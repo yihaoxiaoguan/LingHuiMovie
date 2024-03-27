@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "element-icons"; /* Project id 4409489 */
+  src: url('iconfont.woff2?t=1710580955023') format('woff2'),
+       url('iconfont.woff?t=1710580955023') format('woff'),
+       url('iconfont.ttf?t=1710580955023') format('truetype');
+}
+
+.element-icons {
+  font-family: "element-icons" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-zuowei:before {
+  content: "\e680";
+}
+
+.el-icon-zuowei1-copy:before {
+  content: "\e600";
+}
+
+.el-icon-weibiaoti-:before {
+  content: "\e601";
+}
+
+.el-icon-yonghushuju:before {
+  content: "\e6ea";
+}
+
+.el-icon-dianyingpiao:before {
+  content: "\e8ae";
+}
+
+.el-icon-zhuye:before {
+  content: "\e606";
+}
+
+.el-icon-dianying:before {
+  content: "\e651";
+}
+
